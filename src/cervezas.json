@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Ipa",
+    "description": "Beer",
+    "price": 1000,
+    "thumbnail": "https://vinotecamasis.com.ar/wp-content/uploads/2022/01/Cerveza-Imperial-IPA-Lata-473-ml.png",
+    "code": 1,
+    "stock": 50,
+    "id": 1
+  },
+  {
+    "title": "Apa",
+    "description": "Beer",
+    "price": 1500,
+    "thumbnail": "https://vinotecamasis.com.ar/wp-content/uploads/2022/01/Cerveza-Imperial-IPA-Lata-473-ml.png",
+    "code": 2,
+    "stock": 60,
+    "id": 2
+  },
+  {
+    "title": "Stout",
+    "description": "Beer",
+    "price": 1200,
+    "thumbnail": "https://vinotecamasis.com.ar/wp-content/uploads/2022/01/Cerveza-Imperial-IPA-Lata-473-ml.png",
+    "code": 3,
+    "stock": 30,
+    "id": 3
+  },
+  {
+    "title": "Lager",
+    "description": "Beer",
+    "price": 1900,
+    "thumbnail": "https://vinotecamasis.com.ar/wp-content/uploads/2022/01/Cerveza-Imperial-IPA-Lata-473-ml.png",
+    "code": 4,
+    "stock": 10,
+    "id": 4
+  },
+  {
+    "title": "Golden",
+    "description": "Beer",
+    "price": 1900,
+    "thumbnail": "https://vinotecamasis.com.ar/wp-content/uploads/2022/01/Cerveza-Imperial-IPA-Lata-473-ml.png",
+    "code": 5,
+    "stock": 10,
+    "id": 5
+  }
+]
